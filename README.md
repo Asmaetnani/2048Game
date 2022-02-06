@@ -4,6 +4,10 @@ The goal of this project is to create the 2048 Game using what we learned in all
 As the last chapter we have seen in this semester was QPainter we have choosen to realise our final project using the QPainter functionalities.QPainter provides highly optimized functions to do most of the drawing GUI programs require. It can draw everything from simple lines to complex shapes like pies and chords and in our case the overview of the game which is the table of bricks with the dimension 4 * 4.
 ## How is the game played
 A game of 2048 is played on a 4×4 board.When we start, the board will have a tile "2" in random location, and after making a move (up, down, left, or right) any tiles with the same value that are adjacent to each other and are moving together  will merge and end up with a new tile equal to the sum of the earlier two.
+
+https://user-images.githubusercontent.com/93820154/152693632-8ab39927-cee0-483f-9d4b-8397e57dbbdb.mp4
+
+
 ## Programming part
 First of all our project is a QT widget application that inherits from the class QWidget.   
 
