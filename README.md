@@ -430,22 +430,23 @@ void Game2048::Judge()
 ## Results
 When we first execute the program this is what our application looks like :
 
-
+![image](https://user-images.githubusercontent.com/93820154/152693006-d3595fe2-24d4-4720-bb7d-460a90db96d4.png)
 
 
 Then after pressing the New game button this is what it shows:
 
+![image](https://user-images.githubusercontent.com/93820154/152693031-1063c5b0-5d2f-4efb-af21-ffb6e7edfd16.png)
 
 
 Once you press the Ok button the game starts and its overview is the following:
 
-
+![image](https://user-images.githubusercontent.com/93820154/152693048-63322fa6-03fb-45f0-b620-e0dd036b200c.png)
 
 
 
 When you lose this is the message that you get : 
 
-
+![image](https://user-images.githubusercontent.com/93820154/152693065-1a387a85-53c2-4117-9c91-7bac43fda278.png)
         
  
 ## Conclusion
